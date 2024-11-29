@@ -64,5 +64,5 @@ An advanced and feature-rich Fintech app built with **React Native** using moder
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fintech-app-clone.git
-   cd fintech-app-clone
+   git clone https://github.com/codeMYNK/ReactNative-Fintech-App.git
+   cd fintech
